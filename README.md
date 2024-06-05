@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Captura%20de%20pantalla%202024-06-05%20134322.png)
 
 Additional description about the project and its features.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](http://127.0.0.1:5500/index.html)
+[Live Demo Link](https://22miuel.github.io/Fizz-Buzz/)
 
 
 ## Getting Started
